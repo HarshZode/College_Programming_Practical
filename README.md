@@ -1,5 +1,5 @@
 # College_Programming_Practical
 
-### This Rpository comtains files of practicals of Computer Programming.
+### This Repository comtains files of practicals of Computer Programming.
 
 
