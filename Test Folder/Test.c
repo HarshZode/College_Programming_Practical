@@ -1,8 +1,9 @@
 #include<stdio.h>
 
 int main(){
-    float a;
-    float b;
+
+    int a;
+    int b;
 
     printf("Enter Number\n");
     scanf("%d",&a);
